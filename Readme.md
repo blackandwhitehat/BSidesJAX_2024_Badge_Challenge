@@ -1,7 +1,7 @@
 # Contest Information
 
 **Contest Hours**: 9:00 AM - 5:00 PM  
-**Winners Announced**: Closing Ceremonies
+**Winners Announced**: Closing Ceremonies  
 **Gameplay**: 10 Flags that cover soldering skills, bsides history, hacker trivia, and puzzles/ciphers
 
 ---
